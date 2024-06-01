@@ -10,9 +10,7 @@
 <p align="center">
   <img src="https://cdn.sanity.io/images/tlr8oxjg/production/f2fb25c9cafe100e220f0caf70f92cf19a6ec3dc-1456x816.png?w=3840&q=80&fit=clip&auto=format">
 </p>
-
 ![Snake animation](https://github.com/zeynepplbyk/zeynepplbyk/blob/output/github-contribution-grid-snake.svg)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
