@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJNSay7Ivhjgcq6f9psBdvrZtD-v2vkFsaaQEMmRHLHRGDOV2TQZLHlK-OcJJO9yC-q4&usqp=CAU">
+  <img src="https://cdn.sanity.io/images/tlr8oxjg/production/f2fb25c9cafe100e220f0caf70f92cf19a6ec3dc-1456x816.png?w=3840&q=80&fit=clip&auto=format">
 </p>
 
  <h1 align="center">Hi 👋, I'm ZEYNEP</h1>
