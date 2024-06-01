@@ -9,8 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/zeynep-palabıyık-5996a8270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeynep palabıyık" height="30" width="40" /></a>
-</p>
-<h3 align="left">Bana ulaşın:</h3>
 <p align="left">
 <a href="zeynep_palabiyik@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
