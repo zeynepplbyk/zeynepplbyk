@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/564x/45/d8/cf/45d8cf9fc7e6f318eac0e4aa767783e4.jpg" alt="MasterHead">
+  <img src="https://cdn.seeklearning.com.au/media/images/career-guide/module/computer-engineer-module.jpg">
 </p>
 
  <h1 align="center">Hi 👋, I'm ZEYNEP</h1>
