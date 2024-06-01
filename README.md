@@ -1,4 +1,4 @@
- ![MasterHead](https://tr.pinterest.com/pin/436356651412233517/)
+![MasterHead](https://tr.pinterest.com/pin/436356651412233517/)
 
  <h1 align="center">Hi 👋, I'm ZEYNEP</h1>
 
