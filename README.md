@@ -3,7 +3,7 @@
   <img src="https://cdn.sanity.io/images/tlr8oxjg/production/f2fb25c9cafe100e220f0caf70f92cf19a6ec3dc-1456x816.png?w=3840&q=80&fit=clip&auto=format">
 </p>
 
-<h1 align="center">Hi ❤️, I'm ZEYNEP</h1>
+<h1 align="center">Hi,I'm ZEYNEP</h1>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Hi+%E2%9D%A4%EF%B8%8F%2C+I'm+ZEYNEP;Welcome+to+my+profile" alt="Typing SVG" />
