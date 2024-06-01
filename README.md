@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/564x/44/9d/ad/449dada7a0411061e603af33af18f05d.jpg)
+![MasterHead](https://i.pinimg.com/564x/45/d8/cf/45d8cf9fc7e6f318eac0e4aa767783e4.jpg)
 
 
  <h1 align="center">Hi 👋, I'm ZEYNEP</h1>
