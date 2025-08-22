@@ -23,29 +23,22 @@ I enjoy **learning new technologies**, solving challenging problems, and buildin
 
 ## 🔧 Skills & Tools
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" alt="Assembly" width="40" height="40"/>
-</p>
+### 💻 Programlama Dilleri
+Python ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
+C ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)  
+Java ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
+Assembly ![Assembly](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg)  
 
-<p align="center">
-  <!-- Libraries & Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yolov8/yolov8-original.svg" alt="YOLOv8" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
-</p>
+### 🛠 Kütüphane ve Frameworkler
+OpenCV ![OpenCV](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg)  
+Django ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg)  
+NumPy ![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)  
+Pandas ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)  
+Matplotlib ![Matplotlib](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg)  
 
-<p align="center">
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-</p>
+### 🗄 Veritabanları
+SQLite ![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg)  
+PostgreSQL ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)  
 ---
 
 ## 🌐 Connect with Me
