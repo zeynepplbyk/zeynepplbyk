@@ -27,7 +27,7 @@ I enjoy **learning new technologies**, solving challenging problems, and buildin
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" width="20">  Python &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" width="20">  C &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" width="20">  Java &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" width="20">  Assembly
+  Assembly
 
 ### 🛠 Kütüphane ve Frameworkler
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="20" width="20">  OpenCV &nbsp;&nbsp;
