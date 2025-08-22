@@ -54,7 +54,7 @@ I enjoy **learning new technologies**, solving challenging problems, and buildin
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="E-mail" height="30" width="40"/>
   </a>
 </p>
----
+
 
 ## 🚀 Current Focus
 - Developing **AI-powered computer vision projects**  
