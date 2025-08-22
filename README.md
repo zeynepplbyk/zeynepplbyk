@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Zeynep Palabıyık 💜</h1>
+
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=800080&center=true&vCenter=true&width=450&lines=Computer+Engineering+Student;AI+%26+ML+Enthusiast;Project-Based+Developer" alt="Typing SVG" />
@@ -22,7 +23,6 @@ Analytical problem solving and learning new technologies are my strengths.
 
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
 
-<!-- Programming Languages -->
 <div style="border:1px solid #800080; border-radius:10px; padding:10px; text-align:center; width:120px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br>Python
 </div>
@@ -36,7 +36,6 @@ Analytical problem solving and learning new technologies are my strengths.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" width="40" height="40"/><br>Assembly
 </div>
 
-<!-- Libraries & Frameworks -->
 <div style="border:1px solid #800080; border-radius:10px; padding:10px; text-align:center; width:120px;">
   <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/logos/opencv_logo.png" width="40" height="40"/><br>OpenCV
 </div>
@@ -56,7 +55,6 @@ Analytical problem solving and learning new technologies are my strengths.
   <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40"/><br>Matplotlib
 </div>
 
-<!-- Databases -->
 <div style="border:1px solid #800080; border-radius:10px; padding:10px; text-align:center; width:120px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/><br>SQLite
 </div>
