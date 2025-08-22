@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Zeynep Palabıyık 💜</h1>
+<h1 align="center">Hi, I'm Zeynep  💻
+dizüstü
+Unicode: U+1F4BB, UTF-8: F0 9F 92 BB</h1>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=800080&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile" alt="Typing SVG" />
