@@ -18,31 +18,53 @@ Analytical problem solving and learning new technologies are my strengths.
 
 ---
 
-## 🔧 Programming & Tools
+## 🔧 Skills & Tools
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="Assembly" width="35" height="35"/>
-</p>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
 
-### 🛠 Libraries & Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/logos/opencv_logo.png" alt="OpenCV" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo.png" alt="YOLOv8" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="35" height="35"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="35" height="35"/>
-</p>
+<!-- Programming Languages -->
+<div style="border:1px solid #800080; border-radius:10px; padding:10px; text-align:center; width:120px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br>Python
+</div>
+<div style="border:1px solid #800080; border-radius:10px; padding:10px; text-align:center; width:120px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/><br>C
+</div>
+<div style="border:1px solid #800080; border-radius:10px; padding:10px; text-align:center; width:120px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br>Java
+</div>
+<div style="border:1px solid #800080; border-radius:10px; padding:10px; text-align:center; width:120px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" width="40" height="40"/><br>Assembly
+</div>
 
-### 🗄 Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35"/>
-</p>
+<!-- Libraries & Frameworks -->
+<div style="border:1px solid #800080; border-radius:10px; padding:10px; text-align:center; width:120px;">
+  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/logos/opencv_logo.png" width="40" height="40"/><br>OpenCV
+</div>
+<div style="border:1px solid #800080; border-radius:10px; padding:10px; text-align:center; width:120px;">
+  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo.png" width="40" height="40"/><br>YOLOv8
+</div>
+<div style="border:1px solid #800080; border-radius:10px; padding:10px; text-align:center; width:120px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40" height="40"/><br>Django
+</div>
+<div style="border:1px solid #800080; border-radius:10px; padding:10px; text-align:center; width:120px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/><br>NumPy
+</div>
+<div style="border:1px solid #800080; border-radius:10px; padding:10px; text-align:center; width:120px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/><br>Pandas
+</div>
+<div style="border:1px solid #800080; border-radius:10px; padding:10px; text-align:center; width:120px;">
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40"/><br>Matplotlib
+</div>
+
+<!-- Databases -->
+<div style="border:1px solid #800080; border-radius:10px; padding:10px; text-align:center; width:120px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/><br>SQLite
+</div>
+<div style="border:1px solid #800080; border-radius:10px; padding:10px; text-align:center; width:120px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br>PostgreSQL
+</div>
+
+</div>
 
 ---
 
