@@ -23,13 +23,13 @@ I enjoy **learning new technologies**, solving challenging problems, and buildin
 
 ## 🔧 Skills & Tools
 
-### 💻 Programlama Dilleri
+### 💻  Programming Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" width="20">  Python &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" width="20">  C &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" width="20">  Java &nbsp;&nbsp;
   Assembly
 
-### 🛠 Kütüphane ve Frameworkler
+### 🛠 Library and Frameworks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="20" width="20">  OpenCV &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/django.svg" height="20" width="20">  Django &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20" width="20">  NumPy &nbsp;&nbsp;
@@ -37,7 +37,7 @@ I enjoy **learning new technologies**, solving challenging problems, and buildin
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="20" width="20">  Matplotlib &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="20" width="20">  Unity
 
-### 🗄 Veritabanları
+### 🗄 Databases
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" width="20">  SQLite &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" width="20">  PostgreSQL &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" width="20">  MySQL
