@@ -24,21 +24,22 @@ I enjoy **learning new technologies**, solving challenging problems, and buildin
 ## 🔧 Skills & Tools
 
 ### 💻 Programlama Dilleri
-Python ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
-C ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)  
-Java ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
-Assembly ![Assembly](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg)  
+Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" width="20">  
+C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" width="20">  
+Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" width="20">  
+Assembly <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" height="20" width="20">  
 
 ### 🛠 Kütüphane ve Frameworkler
-OpenCV ![OpenCV](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg)  
-Django ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg)  
-NumPy ![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)  
-Pandas ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)  
-Matplotlib ![Matplotlib](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg)  
+OpenCV <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="20" width="20">  
+Django <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="20" width="20">  
+NumPy <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20" width="20">  
+Pandas <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" width="20">  
+Matplotlib <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="20" width="20">  
 
 ### 🗄 Veritabanları
-SQLite ![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg)  
-PostgreSQL ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)  
+SQLite <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" width="20">  
+PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" width="20">  
+
 ---
 
 ## 🌐 Connect with Me
