@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zeynep Palabıyık 💜</h1>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Hi+❤,+I'm+ZEYNEP;Welcome+to+my+profile" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=800080&center=true&vCenter=true&width=500&lines=Hi+❤,+I'm+Zeynep;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -12,17 +12,23 @@
 ---
 
 ## 👩‍💻 About Me
-I'm a **4th-year Computer Engineering student** at Kocaeli University.  
-I have a strong interest in **Artificial Intelligence, Machine Learning, and Data Science**.  
-I actively participate in **project-based work**, focusing on **object detection, computer vision, and data analysis**.  
-Analytical thinking and problem-solving are my strengths, and I enjoy learning new technologies to improve my skills.  
+Hello! I'm **Zeynep Palabıyık**, a **4th-year Computer Engineering student** at Kocaeli University.  
+I am passionate about **Artificial Intelligence, Machine Learning, Computer Vision, and Data Analysis**.  
+
+I actively work on **hands-on projects**, especially in:
+- **Object Detection** (YOLOv8, OpenCV)  
+- **Data Science & Analysis** (Python, NumPy, Pandas, Matplotlib)  
+- **Web Development** (Django, SQLite, PostgreSQL)  
+
+I enjoy **learning new technologies**, solving challenging problems, and building real-world applications.  
 
 ---
 
 ## 🔧 Skills & Tools
-**Programming Languages:** Python, C, Java, Assembly  
-**Libraries & Frameworks:** OpenCV, YOLOv8, Django, NumPy, Pandas, Matplotlib  
+**Programming Languages:** Python, C, C++, Java, Assembly  
+**Frameworks & Libraries:** OpenCV, YOLOv8, Django, NumPy, Pandas, Matplotlib  
 **Databases:** SQLite, PostgreSQL  
+**Tools & Platforms:** VS Code, Git & GitHub, Wokwi, Blender  
 
 ---
 
@@ -38,3 +44,11 @@ Analytical thinking and problem-solving are my strengths, and I enjoy learning n
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
+
+---
+
+## 🚀 Current Focus
+- Developing **AI-powered computer vision projects**  
+- Enhancing **real-time object detection pipelines**  
+- Building **Python and Django applications** for practical use  
+- Contributing to **open-source projects** and **personal GitHub repos**
