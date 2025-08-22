@@ -46,14 +46,18 @@ I enjoy **learning new technologies**, solving challenging problems, and buildin
 ---
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/zeynep-palabıyık-5996a8270/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="mailto:zeynepplbyk@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="E-mail" height="30" width="40"/>
-  </a>
-</p>
+## 🌐 Connect with Me
+<a href="https://www.linkedin.com/in/zeynep-palabıyık-5996a8270/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://github.com/zeynepplbyk" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+</a>
+<a href="mailto:zeynep@example.com">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Mail" height="30" width="40" />
+</a>
+
+<br clear="left"/>
 
 
 ## 🚀 Current Focus
