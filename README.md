@@ -61,4 +61,4 @@ I enjoy **learning new technologies**, solving challenging problems, and buildin
 - Developing **AI-powered computer vision projects**  
 - Enhancing **real-time object detection pipelines**  
 - Building **Python and Django applications** for practical use  
-- Contributing to **open-source projects** and **personal GitHub repos**
+
