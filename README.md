@@ -50,7 +50,7 @@ I enjoy **learning new technologies**, solving challenging problems, and buildin
 <a href="https://www.linkedin.com/in/zeynep-palabıyık-5996a8270/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="mailto:zeynep_palabiyik@outlook.com">
+<a href="mailto:zeynppalabiyik@gmail.com">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="E-mail" height="30" width="40"/>
 </a>
 
